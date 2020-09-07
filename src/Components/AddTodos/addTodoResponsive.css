@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px){
+    .add{
+        width: 70%;
+        margin: none;
+    }
+}
+@media only screen and (max-width: 576px){
+    .add{
+        width: 100%;
+        margin: none;
+    }
+}

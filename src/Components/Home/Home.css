@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    background: linear-gradient(135deg, rgb(66, 81, 236), rgb(248, 58, 176));
+}
+.heading{
+    font-family: "Bradley Hand ITC";
+}

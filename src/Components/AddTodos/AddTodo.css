@@ -1,0 +1,11 @@
+.add-todo{
+    width: 100%;
+    height: auto;
+}
+.add{
+    width: 50%;
+    margin: auto;
+}
+.add button{
+    width: 100%;
+}
